@@ -49,14 +49,10 @@ Once you have successfully pushed the project, open GitHub and click on the drop
 
 After that, write a message and a comment (optional). Then click on Create pull request.
 
-If you could not follow these steps, here is a video explaining how to contribute. Click the image below to open.
-
-IMAGE ALT TEXT HERE
-
 Tech Stack ✨
 We do not limit your knowledge. Hence we accept all programming languages. You should, however, write your code for a particular language in a that particular folder. In case a folder does not exist for a particular language, create one. Failing to do so will result in your pull request getting rejected.
 
-If you are a beginner and do not know which language to get started with, C, C++, Java or Python is recommended. These are some standard languages to start your programming journey.
+If you are a beginner and do not know which language to get started with,  C++ or Python is recommended. These are some standard languages to start your programming journey.
 
 Note: You must add the corresponding auto-generated file in the .gitignore file.
 
