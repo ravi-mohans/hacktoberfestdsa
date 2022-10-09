@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//i represent row number and j represent column number 
 int main(){
     int i,j;
 for(int i=0;i<7;i++)
