@@ -1,0 +1,22 @@
+Contributing
+Issues
+Check for open issues here or you are also welcome to open a new issue about the contribution you would like to make.
+Wait for the issue to be assigned to you, before you start working on it.
+
+Also, if you want to add a project/program code that is not already present in the repo, you can directly raise a PR as well.
+
+Installation
+To create a local copy of this repo, follow the steps below:
+
+Fork this repo (top right button of the github page)
+Clone the repo git clone <forked-repo>
+Star the repo 🌟 (If found Useful)
+Creating a PR
+To create a successful pull-request, push all of your changes and then issue a PR. Follow the steps below
+
+git checkout -b <new-branch>  (Create a new branch to add all of your changes)
+git commit -m "<commit-message>"  
+git push origin <new-branch>
+Once the changes are commited, create a Pull Request
+
+Congrats you have made to your first contribution to Resources!!! 🌟🌟🌟
