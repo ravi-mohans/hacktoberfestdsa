@@ -33,7 +33,7 @@ Go to the folder where you want to clone this project then do the following.
 
 Clone the project
 
-  git clone git@github.com:adarshpand3y/hacktoberfest2022-DSA.git .
+  git clone git@github.com:ravi-mohans/hacktoberfestdsa.git
 Open the folder in the code editor of your choice and make the changes.
 
 Stage the changes
