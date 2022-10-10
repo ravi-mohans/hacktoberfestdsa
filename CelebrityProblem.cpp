@@ -1,8 +1,23 @@
+/*Problem Statement
+There are ‘N’ people at a party. Each person has been assigned a unique id between 0 to 'N- 1’ (both inclusive). A celebrity is a person who is known to everyone but does not know anyone at the party. Your task is to find out the celebrity at the party. Print the id of the celebrity. If there is no celebrity at the party, then print -1.
+
+Input:
+
+MATRIX = { {0, 0, 1, 0},
+
+           {0, 0, 1, 0},
+
+           {0, 0, 0, 0},
+
+           {0, 0, 1, 0} }
+
+Output:id = 2
+
+Explanation: The person with ID 2 does not know anyone, but everyone knows him*/
+
 #include <bits/stdc++.h>
 #include <list>
 using namespace std;
-
-// Max # of persons in the party
 #define N 4
 
 bool MATRIX[N][N] = { { 0, 0, 1, 0 },{ 0, 0, 1, 0 },{ 0, 0, 0, 0 },{ 0, 0, 1, 0 } };
